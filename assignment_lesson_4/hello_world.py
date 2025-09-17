@@ -7,5 +7,5 @@
 
 # בתרגיל הזה כל שעליכם לעשות זה לכתוב פקודת הדפסה בודדת עם המלל הבא
 # "Hello World I Love Python!"
-
+print("hello MGXpY")
 # WRITE CODE HERE:
